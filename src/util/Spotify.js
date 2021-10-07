@@ -1,4 +1,4 @@
-const clientId = 'a98a0688affa481db29327be04fe6016';
+const clientId = '-- Enter your client ID here --';
 const redirectUri = 'http://encore-music.surge.sh';
 
 let accessToken;
